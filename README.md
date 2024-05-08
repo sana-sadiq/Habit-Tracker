@@ -1,39 +1,21 @@
 # Habit Tracker App
-> A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
-
-![Screenshot (283)](https://user-images.githubusercontent.com/49118089/88487258-13f92200-cfa1-11ea-8ea0-4528517900e1.png)
+The Habit Tracker Application is designed to assist users in creating and maintaining effective daily and weekly routines to achieve their goals and enhance their lives. By leveraging this app, users can track their habits seamlessly, fostering positive behavioral changes and progress.
 
 ## Technologies Used
-1.  NodeJS
-2.  Express
-3.  EJS
-4.  MongoDB
+The application utilizes the following technologies:
+
+Node.js: A JavaScript runtime environment for server-side development.
+Express.js: A web application framework for Node.js that simplifies the creation of web applications and APIs.
+EJS (Embedded JavaScript): A templating engine for generating dynamic HTML markup.
+MongoDB: A NoSQL database for storing user data and habit information.
 
 ## Prerequisites
-- MongoDB
-- Git
-- NodeJS
-- CLI
+Before installing and running the application, ensure the following prerequisites are met:
 
-## Installation
-
-##### Clone the latest Repository
-
-`git clone https://github.com/rahulsups/habit-tracker.git`
-
-##### Into the project directory
-
-`cd habit-tracker`
-
-##### Installing NPM dependencies
-
-`npm install`
-
-##### Then simply start your app
-
-`npm start`
-
-#### The Server should now be running at http://localhost:3000/
+MongoDB is installed and configured.
+Git is installed for cloning the repository.
+Node.js is installed to run JavaScript applications.
+Command Line Interface (CLI) for executing commands.
 
 ## Folder Structure
 
